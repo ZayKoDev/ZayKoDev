@@ -1,14 +1,16 @@
 <!-- Encabezado -->
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hello! My name is Angel "Zayko" 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-usuario/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/tu_usuario)
-[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=flat&logo=hashnode)](https://tu-blog.com)
+[![Instagram](https://img.shields.io/badge/Follow-b?style=social&logo=instagram)](https://www.instagram.com/zayko_l3/)
+[![Twitter](https://img.shields.io/badge/Follow-b?style=social&logo=twitter)](https://twitter.com/Son_Zayko)
+[![Blog](https://img.shields.io/badge/Contact-o?style=social&logo=gmail)](zayko.dev@gmail.com)
 
-Bienvenido a mi rincón de GitHub, donde trabajo en proyectos emocionantes y aprendo algo nuevo todos los días. Explora mis repositorios y no dudes en contribuir o hacer preguntas.
+I am a self-taught student while saving for my university, i'm focused on backend and frontend technologies, I also like cybersecurity.
+
+This is my corner of GitHub, where I work on projects from my studies and every day I improve and learn something new. Feel free to contribute or ask questions about my repos.
 
 <!-- Logo e Información del Proyecto -->
-## Proyecto Tecnológico Increíble
+<!-- ## Proyecto Tecnológico Increíble
 
 ![Logo del Proyecto](url_del_logo.png)
 
@@ -18,53 +20,26 @@ Este proyecto [breve descripción del proyecto].
 - **Característica 2:** [Explicación detallada de la característica 2]
 - **Característica 3:** [Explicación detallada de la característica 3]
 - ...
+-->
+<!-- technos -->
+# Technologies
 
-<!-- Capturas de Pantalla -->
-## Capturas de Pantalla
-
-Adjunto algunas capturas de pantalla para que puedas echar un vistazo:
-
-![Captura de Pantalla 1](screenshot1.png)
-![Captura de Pantalla 2](screenshot2.png)
-
-<!-- Cómo Contribuir -->
-## ¿Cómo Contribuir?
-
-¡Agradezco cualquier contribución! Si deseas contribuir al proyecto, sigue estos pasos:
-
-1. **Fork el Proyecto**
-2. **Crea una Nueva Rama:** `git checkout -b feature/nueva-funcionalidad`
-3. **Realiza tus Cambios y Haz Commit:** `git commit -am 'Añadir nueva funcionalidad'`
-4. **Push a la Rama:** `git push origin feature/nueva-funcionalidad`
-5. **Crea un Nuevo Pull Request**
-
-<!-- Sección de Estadísticas de GitHub -->
-## Estadísticas de GitHub
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-game?style=flat-square&logo=python&color=black&link=https%3A%2F%2Fgithub.com%2FZayKoDev">
+![Python](https://img.shields.io/badge/python-game?style=for-the-badge&logo=python&labelColor=black&color=blue)
+![Django](https://img.shields.io/badge/DJango-game?style=for-the-badge&logo=django&labelColor=black&color=blue)
+![Mongo](https://img.shields.io/badge/mongodb-game?style=for-the-badge&logo=mongodb&labelColor=black&color=blue)
+![sql](https://img.shields.io/badge/mysql-game?style=for-the-badge&logo=mysql&labelColor=black&color=blue)
 </br>
-[![Python](https://img.shields.io/badge/python-game?style=for-the-badge&logo=python&labelColor=black&color=blue)
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-game?style=flat-square&logo=node.js&color=black&link=https%3A%2F%2Fgithub.com%2FZayKoDev">
 
-
+![Js](https://img.shields.io/badge/javascript-game?style=for-the-badge&logo=javascript&labelColor=black&color=blue)
+![Node](https://img.shields.io/badge/node.js-game?style=for-the-badge&logo=node.js&labelColor=black&color=blue)
+![Html](https://img.shields.io/badge/html-game?style=for-the-badge&logo=html5&labelColor=black&color=blue)
+![Css](https://img.shields.io/badge/css-game?style=for-the-badge&logo=css3&labelColor=black&color=blue)
 
 <!-- Sección de Idiomas más Utilizados -->
-## Idiomas más Utilizados
+## Languages
 
-[![Top Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Sección de Contacto -->
-## ¿Hablemos?
-
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- **Twitter:** [@TuUsuario](https://twitter.com/tu_usuario)
-- **Blog:** [Visita mi Blog](https://tu-blog.com)
+- **Spanish**
+- ***I'm learning*** **English**
 
 <!-- Pie de Página -->
----
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZayKoDev)  
-
-<!---
-ZayKoDev/ZayKoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
