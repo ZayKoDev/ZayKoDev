@@ -43,7 +43,7 @@ Adjunto algunas capturas de pantalla para que puedas echar un vistazo:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-game?style=flat-square&logo=python&color=black&link=https%3A%2F%2Fgithub.com%2FZayKoDev">
 </br>
-[![Python](https://img.shields.io/badge/python-game?style=for-the-badge&logo=python&labelColor=black&color=blue)]
+[![Python](https://img.shields.io/badge/python-game?style=for-the-badge&logo=python&labelColor=black&color=blue)
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-game?style=flat-square&logo=node.js&color=black&link=https%3A%2F%2Fgithub.com%2FZayKoDev">
 
 
