@@ -2,7 +2,7 @@
 # ¡Hello! My name is Angel "Zayko" 👋
 
 [![Instagram](https://img.shields.io/badge/Follow-b?style=social&logo=instagram)](https://www.instagram.com/zayko_l3/)
-[![Twitter](https://img.shields.io/badge/Follow-b?style=social&logo=twitter)](https://twitter.com/Son_Zayko)
+[![Twitter](https://img.shields.io/badge/Follow-b?style=social&logo=twitter)](https://twitter.com/)
 [![Blog](https://img.shields.io/badge/Contact-o?style=social&logo=gmail)](zayko.dev@gmail.com)
 
 I am a self-taught student while saving for my university, i'm focused on backend and frontend technologies, I also like cybersecurity.
